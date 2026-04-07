@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&lines=clean+data;smart+models;real+impact;AI-augmented+development" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&center=true&vCenter=true&lines=clean+data;smart+models;AI-augmented+development" />
 </p>
 
 ---
@@ -37,59 +37,31 @@
 ## 🛠️ Tech Stack
 
 ---
-
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-ff69b4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-ff69b4?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-ff69b4?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ff4da6?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-ff4da6?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff4da6?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 
-### 📊 Data Engineering & Processing
-![Pandas](https://img.shields.io/badge/Pandas-ff69b4?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-ff69b4?style=for-the-badge&logo=numpy&logoColor=white)
-![PyArrow](https://img.shields.io/badge/PyArrow-ff69b4?style=for-the-badge)
-![ETL](https://img.shields.io/badge/ETL%20Pipelines-ff69b4?style=for-the-badge)
+### 📊 Data Engineering
+![Pandas](https://img.shields.io/badge/Pandas-ff85c1?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-ff85c1?style=for-the-badge&logo=numpy&logoColor=white)
+![PyArrow](https://img.shields.io/badge/PyArrow-ff85c1?style=for-the-badge)
 
 ---
 
 ### 🧠 Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ff69b4?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-ff69b4?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-ff69b4?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-ff69b4?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-e75480?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-e75480?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-e75480?style=for-the-badge)
 
 ---
 
-### 📈 Data Visualization & Analytics
-![Plotly](https://img.shields.io/badge/Plotly-ff69b4?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ff69b4?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-ff69b4?style=for-the-badge)
-![Dashboards](https://img.shields.io/badge/Dashboards-ff69b4?style=for-the-badge)
-
----
-
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-ff69b4?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-ff69b4?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-ff69b4?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 🖥️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-ff69b4?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-ff69b4?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-ff69b4?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-### 📊 Dashboarding & Apps
-![Streamlit](https://img.shields.io/badge/Streamlit-ff69b4?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
+### 📈 Visualization
+![Plotly](https://img.shields.io/badge/Plotly-ff85c1?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ff85c1?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-ff85c1?style=for-the-badge)
 
 ### 🗄️ Databases
 
@@ -127,7 +99,7 @@
   <a href="https://linkedin.com/in/aarya-patankar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:aarya.242006@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -137,4 +109,4 @@
   💌 Open to collaborations, interesting problems & ambitious ideas
 </p>
 
-> “”
+
